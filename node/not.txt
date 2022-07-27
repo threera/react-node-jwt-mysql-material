@@ -1,0 +1,19 @@
+react
+node
+mysql2
+api
+
+bcrypt เข้ารหัส password
+jwt เพื่อเข้าสู่ระบบ เเบบยืนยันตัวตน
+
+
+
+react-router-dom@6 
+material UI หน้าบ้าน
+fetch ajax api เรียกใช้ api
+localStorage.setItem('Name', 'Rahul'); 
+ 
+
+
+
+
